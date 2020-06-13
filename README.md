@@ -54,7 +54,6 @@
 
 [![](https://github.com/gauravgs/ProperGator/blob/master/demo.PNG)](http://www.youtube.com/watch?v=_G4En-zcT_0 "Propergator Demo ")
 
-
 ----------------------------------------------------- 
 
 
